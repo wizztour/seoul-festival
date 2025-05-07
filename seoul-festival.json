@@ -1,0 +1,16 @@
+[
+  {
+    "title": "서울국제불꽃축제",
+    "location": "여의도 한강공원",
+    "date": "2025-10-05",
+    "description": "화려한 불꽃으로 가을 밤하늘을 수놓는 대표 행사",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Seoul_Fireworks.jpg"
+  },
+  {
+    "title": "한강몽땅 여름축제",
+    "location": "한강 전역",
+    "date": "2025-07-15 ~ 2025-08-20",
+    "description": "물놀이·영화·음악이 어우러지는 여름 대표 축제",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hangang_Festival.jpg"
+  }
+]
